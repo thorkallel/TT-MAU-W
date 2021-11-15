@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <Crypto /> debe mostrar <Crypto /> correctamente 1`] = `
+<ContextProvider
+  value={
+    Object {
+      "criptomoneda": "",
+      "datacripto": Array [],
+      "fGetDatacripto": [Function],
+      "fSaveCripto": [Function],
+      "loadstate": true,
+    }
+  }
+>
+  <CotizacionState>
+    <Crypto />
+  </CotizacionState>
+</ContextProvider>
+`;

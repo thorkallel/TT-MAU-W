@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <App /> debe mostrar <App /> correctamente 1`] = `
+<Fragment>
+  <CriptoState>
+    <CotizacionState>
+      <Crypto />
+    </CotizacionState>
+  </CriptoState>
+</Fragment>
+`;

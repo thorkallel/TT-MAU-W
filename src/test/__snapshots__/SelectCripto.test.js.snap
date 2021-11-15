@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <SelectCripto /> debe mostrar <SelectCripto /> correctamente 1`] = `
+Array [
+  <Component />,
+  <Component />,
+  <Component />,
+]
+`;
+
+exports[`Pruebas en <SelectCripto /> debe mostrar los items <SelectCripto /> 1`] = `
+Array [
+  <Component />,
+  <Component />,
+  <Component />,
+]
+`;

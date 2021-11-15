@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "http://127.0.0.1:8080/static/css/main.330f4abb.chunk.css",
+    "main.js": "http://127.0.0.1:8080/static/js/main.b1004f1d.chunk.js",
+    "main.js.map": "http://127.0.0.1:8080/static/js/main.b1004f1d.chunk.js.map",
+    "runtime-main.js": "http://127.0.0.1:8080/static/js/runtime-main.40bd82c7.js",
+    "runtime-main.js.map": "http://127.0.0.1:8080/static/js/runtime-main.40bd82c7.js.map",
+    "static/js/2.f7152910.chunk.js": "http://127.0.0.1:8080/static/js/2.f7152910.chunk.js",
+    "static/js/2.f7152910.chunk.js.map": "http://127.0.0.1:8080/static/js/2.f7152910.chunk.js.map",
+    "static/js/3.669680d8.chunk.js": "http://127.0.0.1:8080/static/js/3.669680d8.chunk.js",
+    "static/js/3.669680d8.chunk.js.map": "http://127.0.0.1:8080/static/js/3.669680d8.chunk.js.map",
+    "index.html": "http://127.0.0.1:8080/index.html",
+    "static/css/main.330f4abb.chunk.css.map": "http://127.0.0.1:8080/static/css/main.330f4abb.chunk.css.map",
+    "static/js/2.f7152910.chunk.js.LICENSE.txt": "http://127.0.0.1:8080/static/js/2.f7152910.chunk.js.LICENSE.txt",
+    "static/media/background.66610b4f.jpg": "http://127.0.0.1:8080/static/media/background.66610b4f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40bd82c7.js",
+    "static/js/2.f7152910.chunk.js",
+    "static/css/main.330f4abb.chunk.css",
+    "static/js/main.b1004f1d.chunk.js"
+  ]
+}
